@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Estudiar CSS",
+    "descripcion": "Aprendiendo CSS",
+    "estado": "PENDIENTE"
+  },
+  {
+    "nombre": "Estudiar JS",
+    "descripcion": "Aprendiendo JS",
+    "estado": "COMPLETADA"
+  }
+]
